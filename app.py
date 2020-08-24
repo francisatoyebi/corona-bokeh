@@ -8,6 +8,7 @@ from scripts.scatterplot import *
 from os.path import dirname, join
 from bokeh.io import curdoc
 from bokeh.models.widgets import Tabs
+from bokeh.embed import components
 from bokeh.io import show, output_file
 output_file('a.html')
 
@@ -29,4 +30,5 @@ tab = Tabs(tabs = [tab1, tab2, tab3])
 
 curdoc().add_root(tab)
 curdoc().title = 'Corona'
+
 show(curdoc)
