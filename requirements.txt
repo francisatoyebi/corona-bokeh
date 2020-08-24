@@ -3,3 +3,9 @@ bokeh==2.1.1
 numpy==1.18.5
 requests==2.24.0
 beautifulsoup4==4.9.1
+
+gunicorn==20.0.4
+Jinja2==2.11.2
+itsdangerous==1.1.0
+MarkupSafe==1.1.1
+Werkzeug==1.0.1
