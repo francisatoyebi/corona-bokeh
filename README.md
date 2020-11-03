@@ -15,4 +15,4 @@ Before following any of the steps below please ensure you have installed all the
 
 ### The most interesting visulization for me is this below
 
-![]("https://raw.githubusercontent.com/francisatoyebi/corona-bokeh/master/data/corona_animation.gif")
+![](https://raw.githubusercontent.com/francisatoyebi/corona-bokeh/master/data/corona_animation.gif)
