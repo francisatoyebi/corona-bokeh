@@ -17,4 +17,9 @@ Before following any of the steps below please ensure you have installed all the
 
 ![](https://raw.githubusercontent.com/francisatoyebi/corona-bokeh/master/data/corona_animation.gif)
 
+
+**You can view all capability of the dashboard on my youtube where I did a demo on it.**
 <a href="https://www.youtube.com/channel/UCxmWFjnVu-451aqSi3fp_KQ?view_as=subscriber"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>
+
+
+# Thank You
