@@ -55,9 +55,9 @@ def scatter(df):
 
         hover = HoverTool(tooltips=[('As at', '@Date{%F}'),
                                     ('Country', '@Country'),
-                                    ('Confirmed Cases', '@confirm'),
-                                    ('Recovered/Death', '@recovered'),
-                                    ('Death Cases', '@death')],
+                                    ('Confirmed', '@confirm'),
+                                    ('Recovered', '@recovered'),
+                                    ('Death', '@death')],
                          formatters={'@Date': 'datetime'})
 
         p.add_tools(hover)
